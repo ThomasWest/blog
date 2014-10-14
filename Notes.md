@@ -10,3 +10,7 @@
 
 ## Using Rails
 - using `bundle exec rails s` is good muscle memory for when you create rails projects that have dependencies
+
+# 10-13-2014
+# created application.yml file 
+# update gitignore to ignore application.yml
