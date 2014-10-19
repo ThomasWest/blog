@@ -5,13 +5,17 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+=== Ruby version
+version 2.1.1 p76 (2014-02-24 revision 45161) [x86_64-darwin13.0]
 
-* System dependencies
+=== System dependencies
+postgresql
 
-* Configuration
+=== Configuration
+config/application.yml
 
 * Database creation
+rake db setup
 
 * Database initialization
 
