@@ -12,5 +12,10 @@
 - using `bundle exec rails s` is good muscle memory for when you create rails projects that have dependencies
 
 # 10-13-2014
-# created application.yml file 
+# created application.yml file
 # update gitignore to ignore application.yml
+
+# 10-18-2014
+# downloaded postgresql and installed in root directory
+# changed gem file from 'sqlite3' to 'pg'
+# changed all references to sqlite3 in config/database.yml to pstgresql
